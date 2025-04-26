@@ -1,6 +1,4 @@
 **Mehmet Altınbaş**
 Full-Stack Software Engineer
 
-<a href="https://github.com/altnbsmehmet/altnbsmehmet/releases/download/v1.0/CV-Mehmet-Altınbaş.pdf">
-    <img src="./file-earmark-person.svg" alt="Download CV" width="50">
-</a>
+[![Download CV](https://cdn-icons-png.flaticon.com/512/337/337946.png)](https://github.com/altnbsmehmet/altnbsmehmet/releases/download/v1.0/CV-Mehmet-Altınbaş.pdf)
