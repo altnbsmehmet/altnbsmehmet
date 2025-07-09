@@ -18,7 +18,7 @@
 <a target="_blank" href="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="42" height="42" /></a></p>
 <h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://www.linkedin.com/in/altnbsmehmet" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=altnbsmehmet&show_icons=true&locale=en" alt="altnbsmehmet" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=altnbsmehmet&" alt="altnbsmehmet" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=altnbsmehmet&show_icons=true&locale=en&layout=compact" alt="altnbsmehmet" /></p>
+<p><a target="_blank" href="https://www.linkedin.com/in/mehmetaltinbas" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mehmetaltinbas&show_icons=true&locale=en" alt="mehmetaltinbas" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mehmetaltinbas&" alt="mehmetaltinbas" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mehmetaltinbas&show_icons=true&locale=en&layout=compact" alt="mehmetaltinbas" /></p>
