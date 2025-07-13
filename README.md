@@ -23,7 +23,21 @@
 <br />
 <br />
 <h3>Where to find me</h3>
-<p><a target="_blank" href="https://www.linkedin.com/in/mehmetaltinbas" style="display: inline-block;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" /></a></p>
+<p>
+    <a target="_blank" href="https://www.linkedin.com/in/mehmetaltinbas" style="display: inline-block;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" /></a>
+    <a href="https://www.linkedin.com/in/mehmetaltinbas" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" />
+    </a>
+    <a href="https://www.youtube.com/@altnbsmehmet" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/youtube.svg" width="30" />
+    </a>
+    <a href="https://altnbsmehmet.com" target="_blank">
+        <img src="https://img.icons8.com/ios-filled/50/domain.png" width="30" />
+    </a>
+    <a href="https://www.upwork.com/freelancers/~01dfb57165246d32bc" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/upwork.svg" width="30" />
+    </a>
+</p>
 <br />
 <br />
 <h3>Statistics</h3>
