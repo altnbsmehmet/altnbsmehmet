@@ -2,7 +2,6 @@
 <h2>Full-Stack JavaScript Developer | Node.js Specialist</h2>
 <p></p>
 <br />
-<br />
 <h3>Skills</h3>
 <p>UI: HTML, CSS, React.js, Tailwind CSS</p>
 <p>API: Node.js, Express.js, NestJS</p>
