@@ -3,10 +3,12 @@
 <p></p>
 <br />
 <h3>Skills</h3>
-<p>Languages: JavaScript, TypeScript</p>
-<p>UI: HTML, CSS, React.js, Tailwind CSS</p>
-<p>API: Node.js, Express.js, NestJS</p>
-<p>DB: PostgreSQL, MongoDB</p>
+<p>Languages - JavaScript • TypeScript</p>
+<p>Frontend - HTML • CSS • React.js • Tailwind CSS</p>
+<p>Backend - Node.js • Express.js • NestJS</p>
+<p>Testing - Jest • Supertest</p>
+<p>Databases - PostgreSQL • MongoDB</p>
+<p>Database Modeling - Prisma • Mongoose</p>
 <br />
 <br />
 <h3>Statistics</h3>
