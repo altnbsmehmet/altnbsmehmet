@@ -16,12 +16,12 @@
     <a href="https://www.linkedin.com/in/mehmetaltinbas" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" />
     </a>&nbsp;&nbsp;
-    <a href="https://www.youtube.com/@altnbsmehmet" target="_blank">
-        <img src="https://img.icons8.com/color/48/youtube-play.png" width="30" />
-    </a>&nbsp;&nbsp;
+    <!-- <a href="https://www.youtube.com/@altnbsmehmet" target="_blank">
+        <img src="https://img.icons8.com/color/48/youtube-play.png" width="30" /> -->
+    <!-- </a>&nbsp;&nbsp;
     <a href="https://www.upwork.com/freelancers/~01dfb57165246d32bc" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/upwork.svg" width="30" />
-    </a>&nbsp;&nbsp;
+    </a>&nbsp;&nbsp; -->
 </p>
 <br />
 <br />
