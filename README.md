@@ -1,6 +1,5 @@
 <h1>Hi 👋, I'm Mehmet Altınbaş</h1>
 <h2>Full-Stack JavaScript Developer | Node.js Specialist</h2>
-<p></p>
 <br />
 <h3>Skills</h3>
 <p>Languages - JavaScript • TypeScript</p>
@@ -9,7 +8,6 @@
 <p>Testing - Jest • Supertest</p>
 <p>Databases - PostgreSQL • MongoDB</p>
 <p>Database Modeling - Prisma • Mongoose</p>
-<br />
 <br />
 <h3>Statistics</h3>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mehmetaltinbas&show_icons=true&locale=en" alt="mehmetaltinbas" /></p>
