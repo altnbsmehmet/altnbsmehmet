@@ -3,6 +3,7 @@
 <p></p>
 <br />
 <h3>Skills</h3>
+<p>Languages: JavaScript, TypeScript</p>
 <p>UI: HTML, CSS, React.js, Tailwind CSS</p>
 <p>API: Node.js, Express.js, NestJS</p>
 <p>DB: PostgreSQL, MongoDB</p>
